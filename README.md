@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a hybrid application to teach informal Arabic to non-native speakers<br>👯 I’m looking to collaborate on any project with my focus being the development operations and site reliability engineering<br>🌱 I’m currently learning product management<br>💬 Ask me about the Jordan Open Source Association <br>⚡ Fun fact: My code works 60% of the time, every time.
+🔭 I’m currently working on a [hybrid application](https://kaleela.com) to teach informal Arabic to non-native speakers<br>👯 I’m looking to collaborate on any project with my focus being the development operations and site reliability engineering<br>🌱 I’m currently learning product management<br>💬 Ask me about the Jordan Open Source Association [(JOSA)](https://josa.ngo/) <br>⚡ Fun fact: My code works 60% of the time, every time.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-shbool) 
 
